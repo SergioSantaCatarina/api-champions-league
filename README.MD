@@ -1,7 +1,7 @@
-# API da Fórmula 1 com Express
+# API Champions League com Express
 
 ## Descrição
-Um api para listar jogadores e clubes da Premier League, empregando o framework express .
+Um api para listar jogadores e clubes da Champions League, empregando o framework express .
 Projeto desenvolvido no âmbito de treinamento em Node.js, na DIO, com o Professor Felipão.
 
 ##Domínio da aplicação
